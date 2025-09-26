@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vardhanachyut" target="blank"><img src="https://img.shields.io/twitter/follow/vardhanachyut?logo=twitter&style=for-the-badge" alt="vardhanachyut" /></a> </p>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/achyutvardhan/chatApp-)
+- 🔭 I’m currently working on TBD
 
 - 🌱 I’m currently learning **JAVA SPRINGBOOT**
 
