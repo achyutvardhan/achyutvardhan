@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ChatApp](https://github.com/achyutvardhan/chatApp-)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **JAVA SPRINGBOOT**
 
 - 👨‍💻 All of my projects are available at [https://achyutvardhan-portfolio.netlify.app/](https://achyutvardhan-portfolio.netlify.app/)
 
